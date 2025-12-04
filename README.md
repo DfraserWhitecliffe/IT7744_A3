@@ -5,6 +5,9 @@
 4. Use the following commands to run
 
    composer install
+   
    npm install
+   
    php artisan serve
+   
    npm run dev
