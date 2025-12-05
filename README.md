@@ -11,3 +11,6 @@
    php artisan serve
    
    npm run dev
+
+Admin username: admin
+Admin password: admin
